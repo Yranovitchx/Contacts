@@ -1,4 +1,11 @@
-﻿using System;
+/*
+-Si ce n'est pas déjà fait, récupérez l'application existante ici, ainsi que les nouvelles classes métiers ici.
+-Etudiez le code de l'application et testez-le pour bien comprendre son fonctionnement.
+-Modifiez l'interface pour intégrer la possibilité de choisir entre "particulier" et "professionnel", pour chaque contact.
+-Modifiez le code pour que l'ajout et la modification d'un contact gèrent les deux types de contacts. Pour le moment, la distinction ne doit se faire qu'au niveau de la zone d'ajout. La ListBox laisse apparaître tous les contacts dans l'ordre alphabétique, sans distinction. Le seul moyen de distinguer un particulier d'un professionnel dans la ListBox est la présence, ou non, du prénom.
+-Mettez correctement les commentaires normalisés dans l'application et générez la documentation technique.
+*/
+using System;
 using System.Drawing;
 
 namespace Contacts
